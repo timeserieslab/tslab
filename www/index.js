@@ -1,3 +1,3 @@
-import * as wasm from "rdii-lib";
+import * as wasm from "ts-wasm";
 
 wasm.greet();

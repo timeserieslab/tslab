@@ -1,11 +1,9 @@
-# RDII (Rainfall-Derived Infiltration and Inflow) Tool
+# Time Series Lab
 
-[RDII](https://www.wef.org/globalassets/assets-wef/direct-download-library/public/03---resources/wsec-2017-fs-001-rdii-modeling-fact-sheet---final.pdf) tool using Rust and WebAssembly.
-
-All analysis is done in the browser. No data is uploaded to a server.
+Analyse Time Series data in your browser. 
 
 
-# work with the project
+# Working with the project
 
 Install Rust and WASM tools:
 
@@ -35,7 +33,7 @@ Deploy application for histing on Github
 
 # Redistributing
 
-rdii-tool source code is distributed under the Apache-2.0 license.
+tslab source code is distributed under the Apache-2.0 license.
 
 
 **Contributions**

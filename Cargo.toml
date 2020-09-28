@@ -1,10 +1,10 @@
 [package]
-name = "rdii-tool"
+name = "tslab"
 version = "0.1.0"
 authors = ["Krzysztof Langner <klangner@gmail.com>"]
-description = "Online tool for analyzing Rainfall-Derived Infiltration and Inflow"
+description = "Online tool for Time Series analysis"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/timeserieslab/rdii-tool"
+repository = "https://github.com/timeserieslab/tslab"
 edition = "2018"
 
 [lib]
